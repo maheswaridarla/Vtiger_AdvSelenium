@@ -36,7 +36,7 @@ public class ContactScenariosTest extends Baseclass {
 //		String UN = prop.FetchingDtadaFromPropertyFile("un");
 //		String PSWD = prop.FetchingDtadaFromPropertyFile("password");
 //		String TIME = prop.FetchingDtadaFromPropertyFile("timeouts");
-		// fetch randum number
+		// fetch  the randum number
 		liteners_Utility.Listeners.test.log(Status.INFO, "fetch randum number");
 		JavaUtility jutil = new JavaUtility();
 		int randumnum = jutil.GenerateRandumNum();
