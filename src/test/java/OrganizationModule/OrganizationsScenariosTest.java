@@ -230,6 +230,7 @@ public class OrganizationsScenariosTest extends Baseclass {
 
 		// fetch randum number
 		//org test scenarios
+		//org test scenarios
 		liteners_Utility.Listeners.test.log(Status.INFO, "fetch randum number");
 		JavaUtility jutil = new JavaUtility();
 		int randumnum = jutil.GenerateRandumNum();
