@@ -229,6 +229,7 @@ public class OrganizationsScenariosTest extends Baseclass {
 //		String TIME = prop.FetchingDtadaFromPropertyFile("timeouts");
 
 		// fetch randum number
+		//org test scenarios
 		liteners_Utility.Listeners.test.log(Status.INFO, "fetch randum number");
 		JavaUtility jutil = new JavaUtility();
 		int randumnum = jutil.GenerateRandumNum();
